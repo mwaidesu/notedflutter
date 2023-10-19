@@ -1,7 +1,7 @@
 // ignore_for_file: prefer_const_constructors
 
 import 'package:flutter/material.dart';
-import 'package:noted/pages/first_page.dart';
+// import 'package:noted/pages/first_page.dart';
 
 class SecondPage extends StatelessWidget {
   const SecondPage({super.key});
