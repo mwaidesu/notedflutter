@@ -1,17 +1,8 @@
 # noted
 
-A new Flutter project.
+A Flutter project for tracking tasks, saving them and marking them as done. You can also delete tasks by swiping on the task you want to delete.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+- [Interact with the simple app here](https://appetize.io/app/osbxfzndfbclfxvygvawy2ameq)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# notedflutter
